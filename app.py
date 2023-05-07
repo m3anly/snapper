@@ -3,7 +3,7 @@ import sqlite3
 import sys
 
 # Создание базы данных и таблицы для хранения данных входа на сервер
-conn = sqlite3.connect("BAZA_HUYAZA_POSHOL_NAHYU.db")
+conn = sqlite3.connect("DENIS_LOH.db")
 cursor = conn.cursor()
 cursor.execute("CREATE TABLE IF NOT EXISTS login_data (hostname TEXT, username TEXT, password TEXT)")
 conn.commit()
