@@ -1,3 +1,5 @@
-# snapper
+# snapper.py
 
-# кредитс: я и моё чсв
+pls, DO NOT download release right now. It WAS NOT updated and kinda borken.
+
+
